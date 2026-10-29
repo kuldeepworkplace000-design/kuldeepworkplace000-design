@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kuldeepworkplace000-design/kuldeepworkplace000-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kuldeep Pathak 👋
 
-Here are some ideas to get you started:
+### Freelancer · Building my project portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Explore my work](https://github.com/kuldeepworkplace000-design?tab=repositories) · [My other GitHub profile](https://github.com/KuldeepPathak000)
+
+</div>
+
+---
+
+## About me
+
+I'm Kuldeep Pathak, a freelancer. Welcome to my GitHub portfolio — a place to explore my projects and follow the work I share.
+
+## Project spotlight
+
+### [SAP B1 Purchase](https://github.com/KuldeepPathak000/SAP-B1-Purchase)
+
+My repository for SAP Business One purchase work, hosted on my other GitHub account.
+
+[Explore the repository →](https://github.com/KuldeepPathak000/SAP-B1-Purchase)
+
+## Explore more
+
+- [Repositories on this account](https://github.com/kuldeepworkplace000-design?tab=repositories)
+- [Repositories on KuldeepPathak000](https://github.com/KuldeepPathak000?tab=repositories)
+
+---
+
+<div align="center">
+
+**Thanks for visiting my portfolio.**
+
+</div>
